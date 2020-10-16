@@ -1,3 +1,3 @@
 # Video-Stream-App
 
-# Loacal-Camera
+# Local-Camera
